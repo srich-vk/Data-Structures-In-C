@@ -10,8 +10,6 @@
  * @version 1
  * @date 2024-12-12
  * 
- * @copyright Copyright (c) 2024
- * 
  */
 
 #include <stdio.h>
